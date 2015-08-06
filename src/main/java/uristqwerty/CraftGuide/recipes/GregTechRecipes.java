@@ -1,5 +1,5 @@
 package uristqwerty.CraftGuide.recipes;
-
+/*
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -105,54 +105,7 @@ public class GregTechRecipes extends CraftGuideAPIObject implements RecipeProvid
 					(ArrayList)recipeClass.getField("sTurbineFuels").get(null),
 					16, 1000, true, null);
 
-			// Things GregTech 1.7 has not implemented yet (at the time of writing this):
-			/*
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sFusionRecipes").get(null),
-					2, 1, -1, 0, true, "\u00a77  First reaction cost: %1$d EU");
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sGrinderRecipes").get(null),
-					2, 4, -1, 0, false, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sBlastRecipes").get(null),
-					2, 2, -1, 0, false, "\u00a77  Required temperature: %1$d");
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sImplosionRecipes").get(null),
-					2, 2, -1, 0, false, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sSawmillRecipes").get(null),
-					2, 3, -1, 0, false, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sHotFuels").get(null),
-					1, 1, 24, 1000, true, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sDenseLiquidFuels").get(null),
-					1, 1, 8, 1000, true, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sVacuumRecipes").get(null),
-					1, 1, -1, 0, false, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sMagicFuels").get(null),
-					1, 1, 24, 1000, true, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sDistillationRecipes").get(null),
-					2, 4, -1, 0, false, null);
-			generateRecipes(
-					generator, getMachines(itemList, ""),
-					(ArrayList)recipeClass.getField("sPlasmaFuels").get(null),
-					1, 1, 2048, 1000, true, null);
-			*/
-
+			
 			Class modHandlerClass = Class.forName("gregtech.api.util.GT_ModHandler");
 			generatePulverizerRecipes(
 					generator, getMachines(itemList, "Macerator", 3),
@@ -598,4 +551,4 @@ public class GregTechRecipes extends CraftGuideAPIObject implements RecipeProvid
 
 		return null;
 	}
-}
+}*/

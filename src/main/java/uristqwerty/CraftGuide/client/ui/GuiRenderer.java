@@ -10,6 +10,7 @@ import java.util.Map;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.RenderHelper;
 import net.minecraft.client.renderer.entity.RenderItem;
+import net.minecraft.client.resources.model.ModelManager;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
@@ -30,7 +31,8 @@ import uristqwerty.gui_craftguide.texture.Texture;
 
 public class GuiRenderer extends RendererBase implements uristqwerty.CraftGuide.api.Renderer
 {
-    private RenderItem itemRenderer = new RenderItem();
+	//this.renderItem = new RenderItem(this.renderEngine, this.modelManager);
+    private RenderItem itemRenderer = Minecraft.getMinecraft().getRenderItem();//new RenderItem(Minecraft.getMinecraft().renderEngine,new ModelManager(Minecraft.getMinecraft().getTextureMapBlocks()));
 	private List<Overlay> overlays = new LinkedList<Overlay>();
 	private Gui gui;
 
@@ -89,13 +91,13 @@ public class GuiRenderer extends RendererBase implements uristqwerty.CraftGuide.
 	@Override
 	public void drawText(String text, int x, int y)
 	{
-		Minecraft.getMinecraft().fontRenderer.drawString(text, x, y, currentColor());
+		Minecraft.getMinecraft().fontRendererObj.drawString(text, x, y, currentColor());
 	}
 
 	@Override
 	public void drawTextWithShadow(String text, int x, int y)
 	{
-		Minecraft.getMinecraft().fontRenderer.drawStringWithShadow(text, x, y, currentColor());
+		Minecraft.getMinecraft().fontRendererObj.drawStringWithShadow(text, x, y, currentColor());
 	}
 
 	private int currentColor()
@@ -121,11 +123,11 @@ public class GuiRenderer extends RendererBase implements uristqwerty.CraftGuide.
 
 			if(s.charAt(0) == '\u00a7')
 			{
-				w = Minecraft.getMinecraft().fontRenderer.getStringWidth(s.substring(2));
+				w = Minecraft.getMinecraft().fontRendererObj.getStringWidth(s.substring(2));
 			}
 			else
 			{
-				w = Minecraft.getMinecraft().fontRenderer.getStringWidth(s);
+				w = Minecraft.getMinecraft().fontRendererObj.getStringWidth(s);
 			}
 
 			if(w > textWidth)
@@ -253,11 +255,14 @@ public class GuiRenderer extends RendererBase implements uristqwerty.CraftGuide.
 			itemStack = fixedItemStack(itemStack);
 		}
 
-		itemRenderer.renderItemAndEffectIntoGUI(Minecraft.getMinecraft().fontRenderer, Minecraft.getMinecraft().getTextureManager(), itemStack, 0, 0);
+		//final ItemStack stack, int xPosition, int yPosition)
+		//Minecraft.getMinecraft().fontRendererObj, Minecraft.getMinecraft().getTextureManager(), 
+		itemRenderer.renderItemAndEffectIntoGUI(itemStack, 0, 0);
 
 		if(renderOverlay)
 		{
-			itemRenderer.renderItemOverlayIntoGUI(Minecraft.getMinecraft().fontRenderer, Minecraft.getMinecraft().getTextureManager(), itemStack, 0, 0);
+			//, Minecraft.getMinecraft().getTextureManager(),
+			itemRenderer.renderItemOverlayIntoGUI(Minecraft.getMinecraft().fontRendererObj, itemStack, 0, 0,""  );
 		}
 
 		return itemStack;

@@ -7,6 +7,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.client.renderer.Tessellator;
+import net.minecraft.client.renderer.WorldRenderer;
 import net.minecraft.client.settings.KeyBinding;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.inventory.Container;
@@ -17,8 +18,8 @@ import uristqwerty.CraftGuide.CraftGuide;
 import uristqwerty.CraftGuide.CraftGuideLog;
 import uristqwerty.CraftGuide.GuiCraftGuide;
 import uristqwerty.CraftGuide.client.CraftGuideClient;
-import cpw.mods.fml.client.FMLClientHandler;
-import cpw.mods.fml.client.registry.ClientRegistry;
+import net.minecraftforge.fml.client.FMLClientHandler;
+import net.minecraftforge.fml.client.registry.ClientRegistry;
 
 public class CraftGuideClient_FML extends CraftGuideClient
 {
@@ -119,9 +120,13 @@ public class CraftGuideClient_FML extends CraftGuideClient
 
 		try
 		{
-			if((Boolean)CommonUtilities.getPrivateValue(Tessellator.class, Tessellator.instance, "field_78415_z", "isDrawing", "x"))
+			//SAM TODO !!!  [field_78415_z, isDrawing, x]
+	 
+			//Tessellator.getInstance().isDrawing;
+			//SAM TODO !!!  java.lang.NoSuchFieldException: Could not find a field with any of the following names: [[field_78415_z, isDrawing, x]
+			if((Boolean)CommonUtilities.getPrivateValue(WorldRenderer.class, Tessellator.getInstance().getWorldRenderer(), "field_78415_z", "isDrawing", "x"))
 			{
-				Tessellator.instance.draw();
+				Tessellator.getInstance().draw();
 			}
 		}
 		catch(SecurityException e)

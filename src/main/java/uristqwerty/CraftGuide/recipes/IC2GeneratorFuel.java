@@ -1,5 +1,5 @@
 package uristqwerty.CraftGuide.recipes;
-
+/*
 import java.lang.reflect.InvocationTargetException;
 
 import ic2.api.info.Info;
@@ -95,4 +95,4 @@ public class IC2GeneratorFuel implements StackInfoSource
 
 		return 0;
 	}
-}
+}*/

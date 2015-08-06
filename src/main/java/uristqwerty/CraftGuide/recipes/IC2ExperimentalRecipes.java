@@ -1,5 +1,5 @@
 package uristqwerty.CraftGuide.recipes;
-
+/*
 import ic2.api.item.IC2Items;
 import ic2.api.recipe.IMachineRecipeManager;
 import ic2.api.recipe.IRecipeInput;
@@ -530,4 +530,4 @@ public class IC2ExperimentalRecipes extends CraftGuideAPIObject implements Recip
 			return null;
 		}
 	}
-}
+}*/

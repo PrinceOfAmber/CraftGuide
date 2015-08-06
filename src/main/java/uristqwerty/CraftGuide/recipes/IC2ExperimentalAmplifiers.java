@@ -1,5 +1,5 @@
 package uristqwerty.CraftGuide.recipes;
-
+/*
 import ic2.api.recipe.RecipeOutput;
 import ic2.api.recipe.Recipes;
 
@@ -33,3 +33,4 @@ public class IC2ExperimentalAmplifiers implements StackInfoSource
 		return 0;
 	}
 }
+*/

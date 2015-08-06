@@ -154,8 +154,8 @@ public class DefaultRecipeProvider extends CraftGuideAPIObject implements Recipe
 
 	private void addFurnaceRecipes(RecipeTemplate template, RecipeGenerator generator)
 	{
-		Map<ItemStack, ItemStack> furnaceRecipes = FurnaceRecipes.smelting().getSmeltingList();
-
+		Map<ItemStack, ItemStack> furnaceRecipes = FurnaceRecipes.instance().getSmeltingList();//FurnaceRecipes.smelting().getSmeltingList();
+		
 		for(Entry<ItemStack, ItemStack> entry: furnaceRecipes.entrySet())
 		{
 			ItemStack input = entry.getKey();

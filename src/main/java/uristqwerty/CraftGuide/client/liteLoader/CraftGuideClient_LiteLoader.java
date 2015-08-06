@@ -1,5 +1,5 @@
 package uristqwerty.CraftGuide.client.liteLoader;
-
+/*
 import org.lwjgl.input.Keyboard;
 import org.lwjgl.input.Mouse;
 
@@ -135,4 +135,4 @@ public class CraftGuideClient_LiteLoader extends CraftGuideClient
 			failed = true;
 		}
 	}
-}
+}*/

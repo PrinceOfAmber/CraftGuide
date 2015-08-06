@@ -1,5 +1,5 @@
 package uristqwerty.CraftGuide.recipes;
-
+/*
 import ic2.api.info.Info;
 import ic2.api.item.IElectricItem;
 import net.minecraft.item.ItemStack;
@@ -27,3 +27,4 @@ public class IC2Power implements StackInfoSource
 		return null;
 	}
 }
+*/

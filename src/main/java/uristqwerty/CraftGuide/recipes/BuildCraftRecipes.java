@@ -1,5 +1,5 @@
 package uristqwerty.CraftGuide.recipes;
-
+/*
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -385,4 +385,4 @@ public class BuildCraftRecipes extends CraftGuideAPIObject implements RecipeProv
 			generator.addRecipe(twoInputs? templateTwoInputs : templateOneInput, recipeContents);
 		}
 	}
-}
+}*/

@@ -1,6 +1,8 @@
 package uristqwerty.gui_craftguide.minecraft;
 
 
+import java.io.IOException;
+
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
 
@@ -44,7 +46,7 @@ public class Gui extends GuiScreen
 	}
 
 	@Override
-	protected void keyTyped(char eventChar, int eventKey)
+	protected void keyTyped(char eventChar, int eventKey) throws IOException
 	{
 		super.keyTyped(eventChar, eventKey);
 
@@ -95,7 +97,7 @@ public class Gui extends GuiScreen
 	}
 
 	@Override
-	public void handleKeyboardInput()
+	public void handleKeyboardInput() throws IOException
 	{
 		if(Keyboard.getEventKeyState())
 		{
