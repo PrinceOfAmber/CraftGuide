@@ -1,36 +1,48 @@
-[08:26:22] [Client thread/INFO]: Setting user: Player001
-[08:26:25] [Client thread/INFO]: LWJGL Version: 2.9.1
-[08:26:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide
-[08:26:30] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[08:26:30] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[08:26:30] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[08:26:30] [Thread-9/INFO]: OpenAL initialized.
-[08:26:31] [Sound Library Loader/INFO]: Sound engine started
-[08:26:32] [Client thread/INFO]: Created: 512x512 textures-atlas
-[08:26:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide
-[08:26:33] [Client thread/INFO]: SoundSystem shutting down...
-[08:26:34] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[08:26:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[08:26:34] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[08:26:34] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[08:26:34] [Thread-11/INFO]: OpenAL initialized.
-[08:26:34] [Sound Library Loader/INFO]: Sound engine started
-[08:26:35] [Client thread/INFO]: Created: 512x512 textures-atlas
-[08:26:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[08:26:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[08:27:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[08:27:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[08:27:09] [Server thread/INFO]: Starting integrated minecraft server version 1.8
-[08:27:09] [Server thread/INFO]: Generating keypair
-[08:27:10] [Server thread/INFO]: Preparing start region for level 0
-[08:27:11] [Server thread/INFO]: Preparing spawn area: 39%
-[08:27:12] [Server thread/INFO]: Changing view distance to 12, from 10
-[08:27:14] [Server thread/INFO]: Player001[local:E:be240938] logged in with entity id 265 at (300.94931753322675, 65.0, 68.46875398613633)
-[08:27:14] [Server thread/INFO]: Player001 joined the game
-[08:27:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:minecart.base
-[08:27:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:minecart.base
-[08:27:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:minecart.base
-[08:27:16] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@55607e6d[id=a34a8550-7bfc-3dbb-801a-c7c0e88bf4d3,name=Player001,properties={},legacy=false]
+[09:00:03] [Client thread/INFO]: Setting user: Player001
+[09:00:06] [Client thread/INFO]: LWJGL Version: 2.9.1
+[09:00:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide
+[09:00:11] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:00:11] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[09:00:11] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:00:12] [Thread-9/INFO]: OpenAL initialized.
+[09:00:12] [Sound Library Loader/INFO]: Sound engine started
+[09:00:14] [Client thread/INFO]: Created: 512x512 textures-atlas
+[09:00:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CraftGuide
+[09:00:15] [Client thread/INFO]: SoundSystem shutting down...
+[09:00:15] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:00:15] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:00:15] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[09:00:15] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:00:15] [Thread-11/INFO]: OpenAL initialized.
+[09:00:16] [Sound Library Loader/INFO]: Sound engine started
+[09:00:17] [Client thread/INFO]: Created: 512x512 textures-atlas
+[09:00:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[09:00:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[09:00:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[09:00:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[09:00:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[09:00:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[09:00:26] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[09:00:26] [Server thread/INFO]: Generating keypair
+[09:00:27] [Server thread/INFO]: Converting map!
+[09:00:27] [Server thread/INFO]: Scanning folders...
+[09:00:27] [Server thread/INFO]: Total conversion count is 0
+[09:00:27] [Server thread/INFO]: Preparing start region for level 0
+[09:00:28] [Server thread/INFO]: Preparing spawn area: 5%
+[09:00:29] [Server thread/INFO]: Preparing spawn area: 12%
+[09:00:30] [Server thread/INFO]: Preparing spawn area: 20%
+[09:00:31] [Server thread/INFO]: Preparing spawn area: 30%
+[09:00:32] [Server thread/INFO]: Preparing spawn area: 39%
+[09:00:33] [Server thread/INFO]: Preparing spawn area: 48%
+[09:00:34] [Server thread/INFO]: Preparing spawn area: 59%
+[09:00:35] [Server thread/INFO]: Preparing spawn area: 69%
+[09:00:36] [Server thread/INFO]: Preparing spawn area: 80%
+[09:00:37] [Server thread/INFO]: Preparing spawn area: 84%
+[09:00:38] [Server thread/INFO]: Preparing spawn area: 95%
+[09:00:39] [Server thread/INFO]: Changing view distance to 12, from 10
+[09:00:41] [Server thread/INFO]: Player001[local:E:eef3b9ac] logged in with entity id 454 at (247.5, 71.0, 242.5)
+[09:00:41] [Server thread/INFO]: Player001 joined the game
+[09:00:44] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@4410d01e[id=a34a8550-7bfc-3dbb-801a-c7c0e88bf4d3,name=Player001,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:158) [YggdrasilMinecraftSessionService.class:?]
@@ -51,29 +63,738 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[08:27:24] [Server thread/INFO]: Stopping server
-[08:27:24] [Server thread/INFO]: Saving players
-[08:27:24] [Server thread/INFO]: Saving worlds
-[08:27:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[08:27:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[08:27:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[08:27:25] [Client thread/FATAL]: Reported exception thrown!
-net.minecraft.util.ReportedException: Rendering screen
-	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1164) ~[EntityRenderer.class:?]
-	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1114) ~[Minecraft.class:?]
-	at net.minecraft.client.Minecraft.run(Minecraft.java:376) [Minecraft.class:?]
-	at net.minecraft.client.main.Main.main(Main.java:117) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_45]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_45]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_45]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_45]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-Caused by: java.lang.IllegalStateException: Not building!
-	at net.minecraft.client.renderer.WorldRenderer.finishDrawing(WorldRenderer.java:475) ~[WorldRenderer.class:?]
-	at net.minecraft.client.renderer.Tessellator.draw(Tessellator.java:31) ~[Tessellator.class:?]
-	at uristqwerty.CraftGuide.client.fml.CraftGuideClient_FML.stopTessellating(CraftGuideClient_FML.java:126) ~[CraftGuideClient_FML.class:?]
-	at uristqwerty.CraftGuide.GuiCraftGuide.drawScreen(GuiCraftGuide.java:441) ~[GuiCraftGuide.class:?]
-	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:462) ~[ForgeHooksClient.class:?]
-	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1134) ~[EntityRenderer.class:?]
-	... 9 more
+[09:00:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5548ms behind, skipping 110 tick(s)
+[09:00:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:game.player.hurt.fall.small
+[09:00:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.grass
+[09:00:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.game
+[09:01:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:01:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:01:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:01:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4554ms behind, skipping 91 tick(s)
+[09:01:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:01:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:01:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[09:01:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.bat.takeoff
+[09:01:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:01:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[09:01:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:01:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[09:01:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[09:02:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.sheep.step
+[09:02:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:dig.grass
+[09:02:10] [Server thread/INFO]: Saving and pausing game...
+[09:02:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:02:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:02:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:11] [Client thread/ERROR]: @ Post render
+[09:02:11] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:12] [Client thread/ERROR]: @ Post render
+[09:02:12] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:13] [Client thread/ERROR]: @ Post render
+[09:02:13] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:14] [Client thread/ERROR]: @ Post render
+[09:02:14] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:15] [Client thread/ERROR]: @ Post render
+[09:02:15] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:16] [Client thread/ERROR]: @ Post render
+[09:02:16] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:17] [Client thread/ERROR]: @ Post render
+[09:02:17] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[09:02:18] [Client thread/ERROR]: @ Post render
+[09:02:18] [Client thread/ERROR]: 1283: Stack overflow
+[09:02:19] [Server thread/INFO]: Saving and pausing game...
+[09:02:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:02:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:02:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:02:50] [Client thread/INFO]: Stopping!
+[09:02:50] [Client thread/INFO]: SoundSystem shutting down...
+[09:02:51] [Server thread/INFO]: Stopping server
+[09:02:51] [Server thread/INFO]: Saving players
+[09:02:51] [Server thread/INFO]: Saving worlds
+[09:02:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[09:02:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[09:02:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[09:02:51] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
